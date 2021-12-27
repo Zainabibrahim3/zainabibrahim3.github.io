@@ -5,7 +5,7 @@ layout: default
 
 [Link to About me](./another-page.html)
 
-![](assets/images/frontimage.jpg)
+![alt](assets/images/frontimage.jpg)
 
 
 ### About Me.
